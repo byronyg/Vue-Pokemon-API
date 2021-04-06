@@ -1,3 +1,4 @@
+This is a Vue.js and Tailwind CSS project that consumes the Pokemon API from << https://pokeapi.co/>>
 # pokemon-app
 
 ## Project setup
